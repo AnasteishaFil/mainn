@@ -780,7 +780,6 @@ opacity: 1;
   .down-text{
     font-size: 16px;
   }
-
   .card{
     border-radius: 30px;
     height: 17.5vh;
@@ -791,10 +790,10 @@ opacity: 1;
   }
   .text_glav {
     margin: 9.2vh 0 0 0;
-}
-.banner-content {
-  height: 32vh;
-}
+  }
+  .banner-content {
+    height: 28vh;
+  }
   .arrow-8{
     width: 1vh;
     height: 1vh;
